@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tributoChayanneChileno/static/css/main.2e3a31f2.chunk.css",
+    "main.js": "/tributoChayanneChileno/static/js/main.08a0f573.chunk.js",
+    "main.js.map": "/tributoChayanneChileno/static/js/main.08a0f573.chunk.js.map",
+    "runtime-main.js": "/tributoChayanneChileno/static/js/runtime-main.e03fd255.js",
+    "runtime-main.js.map": "/tributoChayanneChileno/static/js/runtime-main.e03fd255.js.map",
+    "static/js/2.f0742ee7.chunk.js": "/tributoChayanneChileno/static/js/2.f0742ee7.chunk.js",
+    "static/js/2.f0742ee7.chunk.js.map": "/tributoChayanneChileno/static/js/2.f0742ee7.chunk.js.map",
+    "index.html": "/tributoChayanneChileno/index.html",
+    "static/css/main.2e3a31f2.chunk.css.map": "/tributoChayanneChileno/static/css/main.2e3a31f2.chunk.css.map",
+    "static/js/2.f0742ee7.chunk.js.LICENSE.txt": "/tributoChayanneChileno/static/js/2.f0742ee7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e03fd255.js",
+    "static/js/2.f0742ee7.chunk.js",
+    "static/css/main.2e3a31f2.chunk.css",
+    "static/js/main.08a0f573.chunk.js"
+  ]
+}
